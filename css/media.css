@@ -1,0 +1,188 @@
+@media screen and (max-width: 480px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .menu2, .komp, .f71, .imgp, .cw, .blue, .media, .last2, .last3 {
+        display: none;
+    }
+
+    .get0 {
+        width: 480px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .w1440, .menu, .get1, .get2, .f72, .f73, .f74, .logo, .why, .pink, .pinkbl, .pdiv1, .blue1 {
+        width: 480px;
+        box-sizing: border-box;
+    }
+
+    .top82, .top10 {
+        margin-top: 0;
+    }
+
+    .pink {
+        height: 850px;
+        width: 480px;
+        box-sizing: border-box;
+    }
+
+    .pinkbl {
+        margin-top: 80px;
+        padding-top: 0;
+        width: 440px;
+        box-sizing: border-box;
+    }
+
+    .box1 {
+        width: 440px;
+        margin: 0;
+    }
+
+    #pink1 {
+        padding-top: 30px;
+        height: 130px;
+    }
+
+    .pdiv1 {
+        padding: 50px;
+        margin-left: 0;
+        padding-right: 0;
+        width: 440px;
+    }
+
+    .pdiv12 {
+        margin-top: 100px;
+        margin-bottom: 30px;
+        padding: 0;
+        margin-right: 0;
+    }
+
+    .pdiv13 {
+        margin-right: 0;
+        padding: 0;
+    }
+
+    .box1 {
+        box-sizing: border-box;
+        width: 400px;
+        margin-right: 0;
+    }
+
+    .left60, .pinkbl {
+        box-sizing: border-box;
+        width: 400px;
+        margin-right: 0;
+    }
+
+    .left145 {
+        padding-left: 0;
+    }
+
+    .left120, .left68, .left71, .left60, .l22 {
+        margin-left: 0;
+    }
+
+    .div {
+        padding-left: 0;
+    }
+
+    .menu, .get, .f70, .f72, .pdiv23, .pdiv33 .why, .left60 {
+        margin-left: 0;
+    }
+
+
+    .menu1, .f72, .get1, .get2, .get3, .get4, .wdiv1, .mdiv12, .mdiv13, .pink, .ac, .but4, .left68, .left71 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .pdiv23, pdiv33 {
+        margin-top: 20px;
+    }
+
+    .whydiv, .why, .pinkbl {
+        display: block;
+        margin-top: 0;
+    }
+
+    .mdiv12, .mdiv22 .mdiv32, .top82 {
+        margin-top: 40px;
+    }
+
+    .button {
+        position: inherit;
+    }
+
+    #button4 {
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+
+    .get, .get3 {
+        margin-top: 50px;
+    }
+
+    .get1 {
+        font-size: 55px;
+        line-height: 70px;
+        position: inherit;
+        margin: 0;
+    }
+
+    .get2 {
+        height: 80px;
+    }
+
+    .whydiv {
+        box-sizing: border-box;
+    }
+
+    .mdiv12 {
+        height: 75px;
+    }
+
+    .ac1, .wdiv1, .pink {
+        font-size: 45px;
+        margin-top: 30px;
+    }
+
+    .top108 > img {
+        width: 440px;
+    }
+
+    .ac {
+        flex-direction: column;
+        height: 450px;
+    }
+
+    .ac2 {
+        width: 460px;
+        padding-right: 20px;
+    }
+
+    .one {
+        height: 640px;
+    }
+
+    .why {
+        height: 650px;
+    }
+
+    .last {
+        width: 480px;
+        height: 450px;
+    }
+
+    .last1{
+        padding: 20px;
+    }
+    .contact{
+        padding: 20px;
+    }
+
+
+}
